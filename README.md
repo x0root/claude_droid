@@ -61,6 +61,16 @@ No official `mcp` SDK, no `pydantic`, no Rust compilation. This was built from s
 
 ---
 
+## Showcase
+
+<p align="center">
+  <img src="images/img1.jpg" width="30%" />
+  <img src="images/img2.jpg" width="30%" />
+  <img src="images/img3.jpg" width="30%" />
+</p>
+
+---
+
 ## Setup
 
 ### Requirements
