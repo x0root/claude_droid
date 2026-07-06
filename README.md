@@ -1,6 +1,8 @@
 # Claude Droid
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
+
 
 
 Turn your Android phone into a remote-controllable tool server for [Claude](https://claude.ai) — no root, no heavy dependencies, just Termux.
