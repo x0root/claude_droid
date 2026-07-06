@@ -1,5 +1,8 @@
 # Claude Droid
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 Turn your Android phone into a remote-controllable tool server for [Claude](https://claude.ai) — no root, no heavy dependencies, just Termux.
 
 Claude Droid runs a lightweight [MCP](https://modelcontextprotocol.io) (Model Context Protocol) server inside [Termux](https://termux.dev), exposes it to the internet through a free Cloudflare Tunnel, and connects it to the Claude app as a custom connector. Once connected, Claude can run shell commands, read/write files, and manage your filesystem directly on your device — from any chat, on any of your devices.
