@@ -2,6 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
+![MCP](https://img.shields.io/badge/MCP-Protocol-190033?style=flat)
 
 
 
